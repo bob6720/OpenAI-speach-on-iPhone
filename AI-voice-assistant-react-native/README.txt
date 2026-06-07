@@ -1,6 +1,6 @@
 Follow these steps to run the project:
 (Windows will not run certain command lines)
-Have tried and have cried :(
+
 - Open the OpenAI folder in VScode 
 - Find src/constants/index.js
 - get your api key from API-keys section: https://platform.openai.com/api-keys
